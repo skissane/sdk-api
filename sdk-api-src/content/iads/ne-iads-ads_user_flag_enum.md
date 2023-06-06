@@ -118,8 +118,7 @@ When set, the password will not expire on this account.
 
 ### -field ADS_UF_MNS_LOGON_ACCOUNT:0x20000
 
-This is an Majority Node Set (MNS) logon account. With MNS, you can configure a multi-node Windows cluster 
-      without using a common shared disk.
+This flag is no longer in active use. Historically, it was used by the legacy Microsoft Services for Netware product.
 
 ### -field ADS_UF_SMARTCARD_REQUIRED:0x40000
 
